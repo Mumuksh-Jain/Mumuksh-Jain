@@ -54,7 +54,7 @@ I'm actively solving problems on LeetCode to improve my algorithmic thinking and
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mumuksh-Jain&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
