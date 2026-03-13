@@ -19,7 +19,7 @@ Focused on strengthening my **problem-solving abilities** through consistent pra
 > A full-stack platform for developers to discover projects, join teams, and collaborate.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-hub-beige.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/collab-hub)
+[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
 
 **What it does:**
 - 🔐 User auth with JWT & secure HTTP-only cookies
