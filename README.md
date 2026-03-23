@@ -40,7 +40,7 @@ Currently focused on **full-stack development and data structures & algorithms**
 ---
 
 ### 🤝 CollabHub
-> A full-stack platform for developers to discover projects, join teams, and collaborate.
+> A full-stack platform for developers to discover projects, join teams, and collaborate — with AI-powered teammate matching and profile tools.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-hub-beige.vercel.app)
 [![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
@@ -49,14 +49,19 @@ Currently focused on **full-stack development and data structures & algorithms**
 - 🔐 User authentication using JWT & secure HTTP-only cookies
 - 📁 Create and manage collaborative projects
 - 🙋 Send, approve, or reject join requests
-- 👤 Developer profiles with skills, bio & GitHub links
+- 👤 Developer profiles with skills, bio, GitHub links & Cloudinary image uploads
 - 🔍 Search projects by title, tech stack, or role
+- 🤖 AI teammate matching — Groq's Llama 3 ranks candidates by skill compatibility with match percentages
+- ✨ AI profile enhancer — auto-generates a professional bio from your skills
+- 💡 AI idea improver — converts rough concepts into structured project titles, descriptions, and role lists
 
 **Built with:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq%20Llama%203-F55036?style=flat-square)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
