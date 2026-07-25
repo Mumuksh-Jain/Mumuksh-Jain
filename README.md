@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mumukshu%20Jain&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%C2%B7%20AI-Integrated%20Product%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:000000&height=220&section=header&text=Mumukshu%20Jain&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%C2%B7%20AI-Integrated%20Product%20Builder&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/Mumuksh-Jain">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="mailto:mumukshujain2466@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+MERN+Apps+%F0%9F%9A%80;Semantic+Search+%7C+ML+Matching+%7C+JWT+Auth+%F0%9F%94%90;Docker+%7C+CI%2FCD+%7C+Production+Deployments+%F0%9F%90%B3;AI+Nexus+Hackathon+Top+50+%7C+200%2B+Teams+%F0%9F%8F%86;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+MERN+Apps;Semantic+Search+%7C+ML+Matching+%7C+JWT+Auth;Docker+%7C+CI%2FCD+%7C+Production+Deployments;AI+Nexus+Hackathon+Top+50+%7C+200%2B+Teams;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
 </div>
 
@@ -40,19 +40,38 @@ const mumukshu = {
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,docker,github,git,javascript,html,css,mysql,cpp,vscode&perline=8&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,docker,github,git,javascript,html,css,mysql,cpp,vscode&perline=8&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
+</div>
 
 <table>
 <tr>
@@ -61,7 +80,7 @@ const mumukshu = {
 ### 🔍 TraceIt
 > **Semantic lost & found platform powered by AI**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trace-it-nu.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://trace-it-nu.vercel.app)
 [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/TraceIt)
 
 - 🤖 Sentence-Transformer semantic search with cosine similarity over vectorised embeddings
@@ -77,7 +96,7 @@ const mumukshu = {
 ### 🤝 CollabHub
 > **AI-powered developer collaboration platform**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-hub-beige.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://collab-hub-beige.vercel.app)
 [![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
 
 - 🤖 Groq Llama 3 ML teammate matching with % compatibility scores
@@ -91,18 +110,20 @@ const mumukshu = {
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=ffffff&bg_color=0d1117" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mumuksh-Jain&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mumuksh-Jain&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
 
 </div>
 
@@ -126,17 +147,7 @@ const mumukshu = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumuksh-Jain&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mumuksh-Jain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumuksh-Jain&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
@@ -162,12 +173,20 @@ const mumukshu = {
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+connect+and+build+something+great." alt="Footer Typing"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mumuksh-Jain&color=a78bfa&style=flat-square&label=Profile+Views)
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mumuksh-Jain&color=58a6ff&style=flat-square&label=Profile+Views)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=120&section=footer&fontColor=58a6ff" width="100%"/>
 
 </div>
