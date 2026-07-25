@@ -1,100 +1,95 @@
-# Hi, I'm Mumukshu Jain 👋
-### 💻 Full-Stack Developer | Continuous Learner | Problem Solver
-I enjoy building web applications and improving my programming skills through **hands-on projects and problem solving**.  
-Currently focused on **full-stack development and data structures & algorithms**.
-
----
-
-## 🌱 Currently Learning
-- **Backend Development:** Node.js, Express.js, MongoDB, Python/Flask
-- **Frontend Development:** React.js
-- **Problem Solving:** Data Structures & Algorithms
-- **Tools & Workflow:** Git, GitHub, Docker, VS Code
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 Trace It
-> A full-stack lost and found platform powered by AI semantic matching — finds similar items even when descriptions use different words.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trace-it-nu.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/TraceIt)
-
-**What it does:**
-- 🔐 User authentication using JWT & secure HTTP-only cookies
-- 📦 Report lost and found items with descriptions
-- 🤖 AI semantic matching using `sentence-transformers` — understands meaning, not just keywords
-- 📊 Ranked match results with similarity scores
-- 🐳 Fully containerized with Docker — entire stack runs with one command
-
-**Built with:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-### 🤝 CollabHub
-> A full-stack platform for developers to discover projects, join teams, and collaborate — with AI-powered teammate matching and profile tools.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-hub-beige.vercel.app)
-[![GitHub](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
-
-**What it does:**
-- 🔐 User authentication using JWT & secure HTTP-only cookies
-- 📁 Create and manage collaborative projects
-- 🙋 Send, approve, or reject join requests
-- 👤 Developer profiles with skills, bio, GitHub links & Cloudinary image uploads
-- 🔍 Search projects by title, tech stack, or role
-- 🤖 AI teammate matching — Groq's Llama 3 ranks candidates by skill compatibility with match percentages
-- ✨ AI profile enhancer — auto-generates a professional bio from your skills
-- 💡 AI idea improver — converts rough concepts into structured project titles, descriptions, and role lists
-
-**Built with:**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq%20Llama%203-F55036?style=flat-square)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
----
-
-## 💻 LeetCode Journey
-I regularly solve problems on LeetCode to strengthen my **algorithmic thinking and problem-solving skills**.
-
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/gD3rUL0Dta?theme=dark&font=Karma&ext=heatmap)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mumukshu%20Jain&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20(MERN)%20%C2%B7%20AI-Integrated%20Product%20Builder&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<a href="https://linkedin.com/in/mumukshu-jain-07484a331">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Mumuksh-Jain">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:mumukshujain2466@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/gD3rUL0Dta/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+MERN+Apps+%F0%9F%9A%80;Semantic+Search+%7C+ML+Matching+%7C+JWT+Auth+%F0%9F%94%90;Docker+%7C+CI%2FCD+%7C+Production+Deployments+%F0%9F%90%B3;AI+Nexus+Hackathon+Top+50+%7C+200%2B+Teams+%F0%9F%8F%86;Open+to+Internship+Opportunities+%F0%9F%92%BC" alt="Typing SVG"/>
 
 </div>
 
 ---
 
-## 🎯 Current Focus
-- 📚 Strengthening programming fundamentals
-- 🧩 Practicing DSA problems daily on LeetCode
-- 💡 Learning backend architecture and API development
-- 🐳 Containerization and deployment with Docker
-- 🔨 Building projects to apply new concepts
+## ⚡ About Me
+
+```javascript
+const mumukshu = {
+  role:       "Full Stack Developer (MERN) + AI Product Builder",
+  university: "Chandigarh University — CSE (AI/ML) — Batch 2024-28",
+  internship: "Code Alpha — Full Stack Developer Intern",
+  stack:      ["React", "Node.js", "Express", "MongoDB", "Docker", "Python"],
+  ai:         ["Sentence-Transformers", "Groq Llama 3", "Cosine Similarity", "Naive Bayes"],
+  hackathon:  "AI Nexus — Top 50 / 200+ teams — DecisionX AI",
+  research:   "Email Spam Detection (Naive Bayes) — 93%+ accuracy — Under Submission",
+  openTo:     "Internships | Full Stack | AI/ML Roles"
+};
+```
 
 ---
 
-## 🛠️ Technologies I'm Exploring
+## 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,docker,github,git,javascript,html,css,mysql,cpp,vscode&perline=8&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 TraceIt
+> **Semantic lost & found platform powered by AI**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://trace-it-nu.vercel.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/TraceIt)
+
+- 🤖 Sentence-Transformer semantic search with cosine similarity over vectorised embeddings
+- 🔐 JWT token rotation + HTTP-only cookies
+- 🐳 Fully containerised with Docker
+- ⚙️ Automated CI/CD pipeline
+
+`React` `Node.js` `Express` `MongoDB` `Python` `Flask` `Docker` `JWT`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 CollabHub
+> **AI-powered developer collaboration platform**
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://collab-hub-beige.vercel.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
+
+- 🤖 Groq Llama 3 ML teammate matching with % compatibility scores
+- 🔐 JWT auth + RBAC enforced across all routes
+- 📊 Optimised MongoDB queries via field indexing
+- ✨ AI profile enhancer + idea improver
+
+`React` `Node.js` `Express` `MongoDB` `Groq` `JWT` `RBAC` `Cloudinary`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -102,26 +97,77 @@ I regularly solve problems on LeetCode to strengthen my **algorithmic thinking a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mumuksh-Jain&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 </div>
 
 ---
 
-## 🔗 Connect with Me
+## 🐍 Contribution Snake
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mumukshu-jain-07484a331/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumukshujain2466@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gD3rUL0Dta/)
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mumuksh-Jain/Mumuksh-Jain/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mumuksh-Jain/Mumuksh-Jain/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mumuksh-Jain/Mumuksh-Jain/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumuksh-Jain&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mumuksh-Jain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+
+</div>
+
+---
+
+## 🎖️ Achievements
+
+| | |
+|---|---|
+| 🥇 **AI Nexus Hackathon** | Top 50 / 200+ teams — DecisionX AI (LLM hallucination eval platform) |
+| 🔬 **Research** | *Email Spam Detection using Naive Bayes* — 93%+ accuracy on 10,000+ samples · Under journal submission |
+| 💼 **Internship** | Full Stack Developer Intern @ Code Alpha · June 2026 – Present |
+| 🚀 **Production** | 2 live MERN deployments with documented REST APIs + active commit history |
+| 🧩 **DSA** | 60+ LeetCode problems — Arrays, Trees, Graphs, DP, Sliding Window |
+
+---
+
+## 💻 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/gD3rUL0Dta?theme=dark&font=Karma&ext=heatmap"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 *"The only way to learn a new programming language is by writing programs in it."*  
-— Dennis Ritchie
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=140&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mumuksh-Jain&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Mumuksh-Jain&color=a78bfa&style=flat-square&label=Profile+Views)
 
 </div>
