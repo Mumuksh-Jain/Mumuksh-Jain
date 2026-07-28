@@ -96,8 +96,8 @@ const mumukshu = {
 ### 🤝 CollabHub
 > **AI-powered developer collaboration platform**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://collab-hub-beige.vercel.app)
-[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/CollabHub)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=black)](https://capstone-full-stack.vercel.app/)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mumuksh-Jain/Capstone_FullStack)
 
 - 🤖 Groq Llama 3 ML teammate matching with % compatibility scores
 - 🔐 JWT auth + RBAC enforced across all routes
