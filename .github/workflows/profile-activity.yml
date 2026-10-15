@@ -26,7 +26,7 @@ jobs:
         id: stats
         with:
           username: ${{ github.repository_owner }}
-          token: ${{ github.token }}
+          token: ${{ secrets.STATS_TOKEN || github.token }}
           profile: signal-field
 
       - name: Stage generated light and dark cards
