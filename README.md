@@ -1,17 +1,15 @@
-<!--
-  Mumukshu Jain · GitHub profile README
-  Based on the original animated README supplied by Mumukshu.
-  Original animated layout preserved. Featured projects and achievement table
-  refined; contribution snake removed by request.
--->
+<!-- Mumukshu Jain | original animated GitHub portfolio layout, refreshed October 2026. -->
 
 <div align="center">
 
-<!-- New header: GitSkins Aura / GitHub Dark, using your GitHub avatar. -->
-<img src="https://www.gitskins.com/api/section/hero?username=mumuksh-jain&amp;theme=github-dark&amp;style=aura&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F219294616%3Fu%3Df09d4c8c001efd12f257343e42bc10da82ecd326%26v%3D4&amp;v=mumukshu-hero-aura" width="100%" alt="Mumukshu Jain · GitSkins Aura GitHub profile header" />
+<!-- Controlled hero: no auto-generated repository language chips. -->
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:020409,45:0b2547,100:060c17&amp;height=245&amp;section=header&amp;text=Mumukshu%20Jain&amp;fontSize=56&amp;fontColor=58a6ff&amp;fontAlignY=37&amp;desc=Full%20Stack%20Developer%20%7C%20AI-Integrated%20Products&amp;descAlignY=59&amp;descColor=ffffff&amp;animation=fadeIn" alt="Mumukshu Jain — Full Stack Developer and AI-Integrated Products" width="100%" />
+
+<a href="https://github.com/Mumuksh-Jain"><img src="https://avatars.githubusercontent.com/u/219294616?v=4" width="105" alt="Mumukshu Jain's GitHub profile photo" /></a>
 
 <p><strong>Full Stack Developer (MERN) · AI-Integrated Product Builder</strong></p>
 
+<br/>
 
 <a href="https://linkedin.com/in/mumukshu-jain-07484a331">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,187 +24,182 @@
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-
-
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-Integrated+MERN+Apps;Semantic+Search+%7C+LLM+Matching+%7C+JWT+Auth;Docker+%7C+CI%2FCD+%7C+Production+Deployments;Exploring+System+Design+%7C+RAG+%7C+ML;AI+Nexus+Hackathon+Top+50+%7C+200%2B+Teams;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 
 </div>
 
-⚡ About Me
+---
+
+## ⚡ About Me
+
+```javascript
 const mumukshu = {
-  role:       "Full Stack Developer (MERN) + AI Product Builder",
-  university: "Chandigarh University — CSE (AI/ML) — Batch 2024-28",
-  internship: "Code Alpha — Full Stack Developer Intern",
-  stack:      ["React", "Node.js", "Express", "MongoDB", "Docker", "Python"],
-  ai:         ["Sentence-Transformers", "Groq Llama 3", "Cosine Similarity", "Naive Bayes"],
-  data:       ["Pandas", "NumPy", "Preprocessing", "Model Evaluation"],
-  exploring:  ["System Design", "RAG", "AI Agents", "Federated Learning"],
-  hackathon:  "AI Nexus — Top 50 / 200+ teams — DecisionX AI",
-  research:   "Email Spam Detection (Naive Bayes) — 93%+ accuracy — Under Submission",
-  leetcode:   "100+ problems solved (primarily C++)",
-  openTo:     "Internships | Full Stack | AI/ML Roles"
+  role: "Full Stack Developer | AI Product Builder",
+  university: "Chandigarh University | CSE (AI/ML) | 2028",
+  experience: "Full Stack Developer Intern @ CodeAlpha",
+  buildingWith: ["React", "Node.js", "Express", "MongoDB", "Python"],
+  testingWith: ["Postman", "GitHub Actions", "Docker"],
+  appliedAI: ["Sentence-Transformers", "Groq Llama 3", "Naive Bayes"],
+  exploring: ["RAG", "Agentic AI", "System Design", "Federated ML"],
+  highlight: "AI Nexus Hackathon | Top 50 of 200+ teams",
+  teamProjects: ["SAS Talent Orbit", "Dogfood Hackathon Platform"],
+  research: "Email Spam Detection | Naive Bayes | 93%+ accuracy",
+  leetcode: "100+ problems | Primarily C++",
+  openTo: ["Software Development", "Full Stack", "AI/ML Internships"]
 };
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+```
 
-🛠️ Tech Stack
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider" />
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,docker,github,git,javascript,html,css,mysql,cpp,vscode&perline=8&theme=dark"/>
+---
 
+## 🛠️ Tech Stack
 
+<!-- One consistent icon grid. Avoid mixing eight independently sized animated icons. -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,flask,docker,git,github,javascript,mysql,cpp,vscode,postman&amp;perline=7&amp;theme=dark" width="560" alt="React, Node.js, Express, MongoDB, Python, Flask, Docker, Git, GitHub, JavaScript, MySQL, C++, VS Code and Postman" />
+</p>
 
+| Area | Technologies and skills |
+|:--|:--|
+| **Web & Backend** | React, JavaScript, Node.js, Express, REST APIs, Flask |
+| **Databases & Security** | MongoDB, MySQL, field indexing, JWT authentication, HTTP-only cookies, RBAC |
+| **Development & Delivery** | Git, GitHub, Docker, GitHub Actions, CI/CD, Vercel, Render |
+| **AI, Data & Testing** | Python, Sentence-Transformers, cosine similarity, Groq Llama 3, Naive Bayes, Pandas, NumPy, Postman API testing |
+| **Problem-Solving** | C++ (DSA), data structures and algorithms, debugging |
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15c385dfa7ed2.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80"/>
-
-</div>
-
-<!-- New learning content only. Your original projects, visuals, stats and footer are unchanged below. -->
-
-🧠 Recently Learned & Exploring
-Applied development: Postman (REST API requests, auth headers and response testing), Pandas and NumPy (data cleaning and analysis), Docker and CI/CD.
 <details>
-<summary><strong>🤖 AI / Machine Learning — models, evaluation and emerging AI</strong></summary>
+<summary><b>🧠 AI / Machine Learning — areas I'm learning</b></summary>
 
-- Preprocessing & evaluation: missing values, duplicates, encoding, normalization vs. standardization, train/test splits, accuracy, precision, recall, F1-score and confusion matrices.
-- ML foundations: linear and logistic regression, decision trees, KNN, K-means, supervised/unsupervised learning, bagging, boosting, Random Forest, AdaBoost and XGBoost; K-fold and stratified K-fold cross-validation.
-- Advanced topics studied: federated/distributed ML, data vs. model parallelism, parameter servers and peer-to-peer training, Bayesian networks, probabilistic graphical models, Boltzmann machines / RBMs and fuzzy rule-based systems.
-- LLM/agent concepts: retrieval-augmented generation (RAG), context engineering, tokenization, context windows, CrewAI, Ollama and local LLM workflows.
-These topics reflect a mix of coursework and self-study; they are not claims of production implementations.
+- **ML & evaluation:** regression, classification, decision trees, KNN, K-means, Random Forest, AdaBoost, XGBoost, K-fold/stratified cross-validation, precision, recall, F1 and confusion matrices.
+- **Data workflows:** missing values, duplicate handling, encoding, normalization, standardization and visual analysis.
+- **Advanced coursework:** federated and distributed ML, parameter servers, peer-to-peer learning, data/model parallelism, Bayesian networks, probabilistic graphical models, RBMs and fuzzy rule-based systems.
+- **Generative AI:** RAG, context engineering, tokenization, context windows, CrewAI, Ollama and local LLM concepts.
+
+*Hands-on work is shown in my projects below; the remaining topics reflect coursework and self-study.*
 </details>
 
 <details>
-<summary><strong>🏗️ System Design — concepts I'm studying</strong></summary>
+<summary><b>🏗️ System Design — concepts I'm exploring</b></summary>
 
-- Scaling & caching: vertical vs. horizontal scaling, Redis caching and back-of-the-envelope capacity estimation.
-- Cloud & messaging concepts: AWS Lambda, SQS, SNS, asynchronous processing and acknowledgements.
-- Architecture patterns: CQRS, event sourcing and the reasons for containerization.
-- Rate limiting: token bucket, leaky bucket, fixed-window counter, sliding-window log and sliding-window counter.
-I understand these concepts at a foundational level and am continuing to develop implementation experience.
+- **Scalability:** vertical and horizontal scaling, capacity estimation and caching with Redis.
+- **Messaging & serverless:** AWS SQS, SNS, Lambda, acknowledgements and asynchronous workflows.
+- **Architecture:** CQRS, event sourcing and containerization fundamentals.
+- **Rate limiting:** token bucket, leaky bucket, fixed window, sliding-window log and sliding-window counter.
+
+*Conceptual knowledge; not a claim of production implementations.*
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider" />
 
-🚀 Featured Projects
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280"/>
-</div>
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="250" alt="Developer animation" />
+</p>
+
+<!-- Use HTML inside HTML tables. Markdown headings, lists and badges do not reliably render inside raw <td> blocks. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 TraceIt</h3>
+      <p><em>AI-powered semantic lost &amp; found platform</em></p>
+      <p><a href="https://trace-it-nu.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Live Demo" /></a> <a href="https://github.com/Mumuksh-Jain/TraceIt"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source" /></a></p>
+      <ul>
+        <li>Semantic matching using Sentence-Transformers, vector embeddings and cosine similarity.</li>
+        <li>JWT authentication with token rotation and HTTP-only cookies.</li>
+        <li>Docker containerization and automated CI/CD deployment.</li>
+      </ul>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Python</code> <code>Flask</code> <code>Docker</code> <code>JWT</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤝 CollabHub</h3>
+      <p><em>AI-powered developer collaboration platform</em></p>
+      <p><a href="https://capstone-full-stack.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&amp;logo=vercel&amp;logoColor=black" alt="Live Demo" /></a> <a href="https://github.com/Mumuksh-Jain/Capstone_FullStack"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source" /></a></p>
+      <ul>
+        <li>Groq Llama 3 integration for AI-assisted developer matching and profile enhancement.</li>
+        <li>JWT authentication and role-based access control (RBAC).</li>
+        <li>Express middleware and MongoDB field indexing for backend queries.</li>
+      </ul>
+      <p><code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>Groq</code> <code>JWT</code> <code>RBAC</code></p>
+    </td>
+  </tr>
+</table>
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-🔍 TraceIt
-Semantic lost & found platform powered by AI
-
-
-
-- 🤖 Sentence-Transformer semantic search with cosine similarity over vectorised embeddings
-- 🔐 JWT token rotation + HTTP-only cookies
-- 🐳 Fully containerised with Docker
-- ⚙️ Automated CI/CD pipeline
-React Node.js Express MongoDB Python Flask Docker JWT
-</td>
-<td width="50%" valign="top">
-
-🤝 CollabHub
-AI-powered developer collaboration platform
-
-
-
-- 🤖 Groq Llama 3 ML teammate matching with % compatibility scores
-- 🔐 JWT auth + RBAC enforced across all routes
-- 📊 Optimised MongoDB queries via field indexing
-- ✨ AI profile enhancer + idea improver
-React Node.js Express MongoDB Groq JWT RBAC Cloudinary
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🪐 SAS BFB Talent Orbit</h3>
+      <p><em>Hired Is Not Rewarded — AI/ML talent-market decision engine</em></p>
+      <p>
+        <a href="https://github.com/Mumuksh-Jain/SAS_BFB_TALENT_ORBIT"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source" /></a>
+        <a href="https://github.com/Mumuksh-Jain/SAS_BFB_TALENT_ORBIT#readme"><img src="https://img.shields.io/badge/Project_Docs-58a6ff?style=for-the-badge&amp;logo=readme&amp;logoColor=black" alt="Project documentation" /></a>
+      </p>
+      <ul>
+        <li>Team-built <strong>three-model</strong> ML engine comparing external hiring demand with workplace rewards; analysed <strong>15,841 job postings</strong>.</li>
+        <li>Interactive <strong>Streamlit</strong> dashboard and <strong>FastAPI</strong> inference endpoints for interpretable predictions and model comparison.</li>
+        <li><strong>34/34 validation checks passed</strong>; model card, calibration, ethical constraints and reproducible reports.</li>
+      </ul>
+      <p><code>Python</code> <code>Scikit-learn</code> <code>Statsmodels</code> <code>Pandas</code> <code>Streamlit</code> <code>FastAPI</code></p>
+      <p><sub>SAS Viya procedures documented as planned, not executed.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧪 Dogfood 2026</h3>
+      <p><em>Offline-first, auditable hackathon management platform</em></p>
+      <p>
+        <a href="https://github.com/Mumuksh-Jain/dogfood"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Source" /></a>
+        <a href="https://github.com/Mumuksh-Jain/dogfood#readme"><img src="https://img.shields.io/badge/Project_Docs-58a6ff?style=for-the-badge&amp;logo=readme&amp;logoColor=black" alt="Project documentation" /></a>
+      </p>
+      <ul>
+        <li>Team hackathon portal for registrations, teams, immutable submissions and role-aware participant/judge workflows.</li>
+        <li>Deterministic judge allocation, versioned weighted rubrics, <strong>z-score normalization</strong> and explainable results.</li>
+        <li>Independent <strong>SHA-256 replay verification</strong>, CSV export safeguards, and <strong>7/7 acceptance-harness passes</strong>.</li>
+      </ul>
+      <p><code>Go</code> <code>SQLite</code> <code>REST API</code> <code>Docker</code> <code>SHA-256</code> <code>Offline-First</code></p>
+      <p><sub>Go is the project's implementation language; not listed as a personal proficiency claim.</sub></p>
+    </td>
+  </tr>
 </table>
 
-<!-- Added repositories: titles and links are confirmed from the URLs supplied.
-     Descriptions/technology claims are intentionally omitted until their READMEs can be inspected. -->
+<!-- No Live Demo badge for Talent Orbit or Dogfood: no verified hosted demo URL supplied. -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Animated divider" />
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-🪐 SAS BFB Talent Orbit
-Explore the project repository and its documentation
+## 📊 GitHub Stats & Contribution Activity
 
-
-
-📖 Explore the README for the project's goals, implementation and current progress.
-Source Documentation
-</td>
-<td width="50%" valign="top">
-
-🧪 Dogfood
-Explore the project repository and its documentation
-
-
-
-📖 Explore the README for the project's goals, implementation and current progress.
-Source Documentation
-</td>
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
-📊 GitHub Stats
+<!-- The card below is generated and committed by .github/workflows/profile-activity.yml. -->
+<!-- Static SVGs are served by GitHub itself: no third-party runtime stats API. -->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mumuksh-Jain&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumuksh-Jain&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=ffffff&bg_color=0d1117" height="165"/>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mumuksh-Jain&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="60%"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/signal-field-wide-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/signal-field-wide-light.svg" />
+    <img src="./profile/signal-field-wide-dark.svg" width="95%" alt="Mumukshu Jain GitHub contribution calendar and public engineering activity" />
+  </picture>
+  <p><a href="https://github.com/Mumuksh-Jain?tab=overview"><strong>View full GitHub contribution history →</strong></a></p>
 </div>
 
-📈 Activity Graph
-<div align="center">
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mumuksh-Jain&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+## 🎖️ Achievements
 
-</div>
-
-🎖️ Achievements
-<table width="100%">
-<tr>
-  <th align="left" width="25%">Milestone</th>
-  <th align="left" width="75%">Highlight</th>
-</tr>
-<tr>
-  <td width="25%"><strong>🥇 Hackathon</strong></td>
-  <td width="75%"><strong>AI Nexus — Top 50 of 200+ teams</strong> · DecisionX AI (LLM hallucination evaluation platform)</td>
-</tr>
-<tr>
-  <td><strong>🔬 Research</strong></td>
-  <td><em>Email Spam Detection using Naive Bayes</em> · 93%+ accuracy on 10,000+ samples · Under journal submission</td>
-</tr>
-<tr>
-  <td><strong>💼 Internship</strong></td>
-  <td>Full Stack Developer Intern at Code Alpha · June 2026 – Present</td>
-</tr>
-<tr>
-  <td><strong>🚀 Production</strong></td>
-  <td>2 live MERN deployments with documented REST APIs and active commit history</td>
-</tr>
-<tr>
-  <td><strong>🧩 DSA</strong></td>
-  <td>100+ LeetCode problems · Arrays, Trees, Graphs, DP, Sliding Window</td>
-</tr>
+<table>
+  <tr><th align="left" width="24%">Milestone</th><th align="left">Highlight</th></tr>
+  <tr><td><strong>🏅 Hackathon</strong></td><td><strong>AI Nexus — Top 50 among 200+ teams</strong> · DecisionX AI (LLM hallucination-evaluation prototype)</td></tr>
+  <tr><td><strong>🔬 Research</strong></td><td><em>Email Spam Detection using Naive Bayes</em> · 93%+ reported accuracy · Research manuscript</td></tr>
+  <tr><td><strong>💼 Internship</strong></td><td>Full Stack Developer Intern at CodeAlpha · June 2026 – Present</td></tr>
+  <tr><td><strong>🚀 Projects</strong></td><td>TraceIt &amp; CollabHub (deployed apps) · SAS Talent Orbit (34/34 checks) · Dogfood (7/7 harness passes)</td></tr>
+  <tr><td><strong>🧩 DSA</strong></td><td>100+ LeetCode problems · Arrays, Trees, Graphs, Dynamic Programming and Sliding Window</td></tr>
 </table>
 
-💻 LeetCode
+---
+
+## 💻 LeetCode
+
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/gD3rUL0Dta?theme=dark&font=Karma&ext=heatmap"/>
@@ -215,14 +208,17 @@ Source Documentation
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
+---
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let%27s+connect+and+build+something+great." alt="Footer Typing"/>
 
+<br/><br/>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Mumuksh-Jain&color=58a6ff&style=flat-square&label=Profile+Views)
 
-
-
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=120&section=footer&fontColor=58a6ff" width="100%"/>
 
